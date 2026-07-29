@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: fantabuzz-web
-    runtime: node
-    buildCommand: npm install
-    startCommand: npm start
-    healthCheckPath: /health

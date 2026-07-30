@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: fantabid-web
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health

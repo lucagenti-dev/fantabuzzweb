@@ -1,4 +1,4 @@
-# FantaBuzz Web
+# FantaBid Web
 
 Web app in tempo reale per aste tra amici, pensata per funzionare da iPhone, Android, tablet e computer.
 

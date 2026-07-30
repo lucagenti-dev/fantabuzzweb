@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Fasce nei colori sociali">
+<defs><clipPath id="r"><rect x="8" y="8" width="84" height="84" rx="22"/></clipPath><linearGradient id="shine" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".30"/><stop offset=".48" stop-color="#fff" stop-opacity=".04"/><stop offset="1" stop-color="#000" stop-opacity=".22"/></linearGradient></defs>
+<g clip-path="url(#r)"><rect x="8.0000" y="8" width="21.2000" height="84" fill="#19A44A"/><rect x="29.0000" y="8" width="21.2000" height="84" fill="#111111"/><rect x="50.0000" y="8" width="21.2000" height="84" fill="#19A44A"/><rect x="71.0000" y="8" width="21.2000" height="84" fill="#111111"/><rect x="8" y="8" width="84" height="84" fill="url(#shine)"/></g>
+<rect x="8" y="8" width="84" height="84" rx="22" fill="none" stroke="#e7edf7" stroke-opacity=".75" stroke-width="4"/>
+</svg>

@@ -1,0 +1,26 @@
+{
+  "name": "fantabid-v2",
+  "version": "2.1.0",
+  "description": "FantaBid 2.1: asta fantacalcio live responsive con listone 2026/27, QR, rose, statistiche e modalita TV.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check app.js && node --check catalog.js && node --check generate-players.js && node --check test.js",
+    "test": "node test.js",
+    "import:players": "node generate-players.js"
+  },
+  "engines": {
+    "node": ">=20 <25"
+  },
+  "dependencies": {
+    "express": "4.21.2",
+    "multer": "2.2.0",
+    "qrcode": "1.5.4",
+    "socket.io": "4.8.3",
+    "xlsx": "0.18.5"
+  },
+  "devDependencies": {
+    "socket.io-client": "4.8.3"
+  }
+}

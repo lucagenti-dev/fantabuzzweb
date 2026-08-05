@@ -1,0 +1,20 @@
+{
+  "name": "FantaBid 2.1 — Asta 2026/27",
+  "short_name": "FantaBid",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "lang": "it-IT",
+  "scope": "/",
+  "background_color": "#03070c",
+  "theme_color": "#ffc400",
+  "description": "Asta fantacalcio live responsive con listone 2026/27, QR, crediti, rose, statistiche e modalità TV",
+  "icons": [
+    {
+      "src": "/fantabid-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
